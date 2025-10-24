@@ -1,0 +1,8 @@
+easyocr
+keybert
+sentence-transformers
+gradio
+pillow
+numpy
+tf-keras
+torch
